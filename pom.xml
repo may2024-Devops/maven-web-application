@@ -102,7 +102,7 @@
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>ganesh canara bank Snapshot Nexus Repository </name>
+	      <name>ganesh canara bank Snapshot Nexus Repository</name>
 	      <url>http://13.127.246.65:9980/ganesh/repository/canarabank-snapshot/</url>
 	    </snapshotRepository>
 	    
